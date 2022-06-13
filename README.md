@@ -2,7 +2,7 @@
 
 ### Cloning a Project with Submodules
 
-`git clone --recurse-submodules https://github.com/pietow/fullstack_submodule`
+`git clone --recurse-submodules https://github.com/pietow/expressReactAPI`
 
 This will also clone the submodules
 
