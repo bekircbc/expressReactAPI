@@ -1,0 +1,6 @@
+[submodule "expressAPI"]
+	path = expressAPI
+	url = https://github.com/pietow/expressAPI
+[submodule "reactAPI"]
+	path = reactAPI
+	url = git@github.com:pietow/reactAPI
